@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584466940 source:c:\users\abdelrahman elkholy\desktop\c++\des\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+	<bitset>
+	<algorithm>
+
